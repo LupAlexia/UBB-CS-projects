@@ -1,0 +1,4 @@
+S,Yellow,128.00,6,https://us.shein.com/style/Trench-Outerwear-sc-00105085.html
+M, White,110.00,7,https://us.maxmara.com/v/trench-coats-female
+S,purple,90.00,45,https://us.shein.com/Men-Trench-Coats-c-3136.html
+L,Yellow,128.00,2,https://us.shein.com/style/Trench-Outerwear-sc-00105085.html
