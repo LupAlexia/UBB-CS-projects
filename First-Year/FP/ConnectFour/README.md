@@ -1,4 +1,4 @@
-## Connect Four game - Python application
+# Connect Four game - Python application
 
 This repository contains my implementation of the Connect Four game developed as part of my first-year Computer Science FP(Fundamentals of Programming) course at UBB. The game is console-based and provides a computer opponent that employs optimized AI logic to challenge the player.
 
