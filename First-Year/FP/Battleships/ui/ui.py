@@ -1,5 +1,5 @@
-from src.board.board import Board
-from src.computer.computer import Computer
+from board.board import Board
+from computer.computer import Computer
 
 
 class Ui:
