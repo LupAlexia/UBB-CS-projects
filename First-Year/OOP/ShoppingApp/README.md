@@ -1,4 +1,4 @@
-# 🧥 Proper Trench Coats – C++ & Qt Shopping Application
+# Proper Trench Coats – C++ & Qt Shopping Application
 
 A modern C++ application with a Qt GUI for managing and purchasing trench coats from a virtual fashion store. The app supports both **administrator** and **user** modes, with full support for undo/redo, data validation, persistent file storage, and graphical table view of the shopping basket.
 
@@ -6,9 +6,9 @@ A modern C++ application with a Qt GUI for managing and purchasing trench coats 
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👨‍💼 Administrator Mode
+### Administrator Mode
 - Add new trench coats with attributes: `size`, `colour`, `price`, `quantity`, `photo URL`
 - Update existing trench coats
 - Delete trench coats from inventory
@@ -17,7 +17,7 @@ A modern C++ application with a Qt GUI for managing and purchasing trench coats 
 - Input validation & custom exceptions
 - Undo/Redo functionality for add, delete, and update operations
 
-### 🛍️ User Mode
+### User Mode
 - Browse trench coats by size (or all if no size given)
 - View coat details and photograph via link
 - Add trench coats to shopping basket
@@ -27,7 +27,7 @@ A modern C++ application with a Qt GUI for managing and purchasing trench coats 
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 - **Layered Architecture:**
   - **Domain Layer** – Entity classes (`TrenchCoat`)
@@ -50,9 +50,9 @@ A modern C++ application with a Qt GUI for managing and purchasing trench coats 
 
 ---
 
-## 🧪 How to Build and Run
+## How to Build and Run
 
-### 🔧 Requirements
+### Requirements
 - C++17 or later
 - [Qt 6](https://www.qt.io/download)
 - CMake or Visual Studio
