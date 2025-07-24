@@ -1,0 +1,20 @@
+0,Donald Wilson,3
+1,Jennifer Stephenson,3
+2,Dr. Amber Gilbert,1
+3,Tracy Shepard,3
+4,Sherry Silva,6
+5,Edward Harrell,5
+6,Scott Vargas,9
+7,Todd Diaz,6
+8,Rachel Richard,4
+9,Jennifer Riley,2
+10,Sandra Chambers,2
+11,Nicole Martinez,1
+12,Alan Brooks,10
+13,David Hart,9
+14,Amanda Moore,2
+15,Nicole Rios,4
+16,Scott Navarro,1
+17,Janet Martinez,4
+18,Christian Harrell,3
+19,Ashley Richmond,4

@@ -1,0 +1,20 @@
+0,Research and create a report on renewable energy.,2024-02-16
+1,Read and summarize Chapter 5 of the textbook.,2024-05-08
+2,Write an essay on global warming.,2024-07-09
+3,Write an essay on global warming.,2024-03-09
+4,Research and create a report on renewable energy.,2024-04-12
+5,Complete the biology lab report.,2024-08-29
+6,Research and create a report on renewable energy.,2024-02-23
+7,Write a poem about nature.,2024-12-15
+8,Write an essay on global warming.,2024-07-29
+9,Complete the biology lab report.,2024-01-22
+10,Read and summarize Chapter 5 of the textbook.,2024-05-22
+11,Research and create a report on renewable energy.,2024-09-02
+12,Write an essay on global warming.,2024-08-12
+13,Prepare a presentation on a historical event.,2024-08-09
+14,Solve the attached set of algebra problems.,2024-05-20
+15,Read and summarize Chapter 5 of the textbook.,2024-06-17
+16,Write a poem about nature.,2024-08-29
+17,Write a poem about nature.,2024-08-20
+18,Research and create a report on renewable energy.,2024-07-31
+19,Read and summarize Chapter 5 of the textbook.,2024-10-15
